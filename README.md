@@ -1,16 +1,14 @@
-## Hi there 👋
+## hi there seja bem vindo ao meu perfil 💲
 
-<!--
-**tiagomengo/tiagomengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é tiago silva ramos
 
-Here are some ideas to get you started:
+-sou estudante;
+-gosto de futebol;
+-jogar tenís de mesa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo 📫
+ramostiago498@gamail.com
+
+@tigas.slv
+
+https://media.tenor.com/s45HmDEGbUsAAAAi/3d-monkey-monkey-eating.gif
